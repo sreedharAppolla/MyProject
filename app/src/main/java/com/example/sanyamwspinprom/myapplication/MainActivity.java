@@ -2,10 +2,12 @@ package com.example.sanyamwspinprom.myapplication;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.widget.Button;
+import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
     Button btn;
-    Textview text;
+    TextView text;
     //Please Check in this changes Yes......
 
     @Override
